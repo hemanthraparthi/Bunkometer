@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bunk-O-Meter</string>
+    <string name="atb">Bunk-O-Meter</string>
+    <string name="classheld">Classes Held</string>
+    <string name="classpre">Classes Present</string>
+    <string name="desired">Dsired %</string>
+    <string name="go">Go</string>
+</resources>
